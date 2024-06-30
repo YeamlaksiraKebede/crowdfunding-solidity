@@ -28,7 +28,7 @@ This project contains a Solidity smart contract (`FundMe.sol`) and a supporting 
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/yourusername/fundme-solidity.git
-    cd fundme-solidity
+    cd crowdfunding-solidity
     ```
 
 2. **Install dependencies**:
