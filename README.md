@@ -15,21 +15,6 @@ This project contains a Solidity smart contract (`FundMe.sol`) and a supporting 
 - **Events**: Emits events for funding, withdrawal, pausing, and unpausing.
 - **Reentrancy Guard**: Protects against reentrancy attacks.
 
-  ##File Structure
-  crowdfunding_solidity/
-├── contracts/
-│   ├── FundMe.sol
-│   └── PriceConverter.sol
-├── scripts/
-│   └── deploy.js
-├── test/
-│   └── test_fundme.js
-├── .gitignore
-├── .env
-├── hardhat.config.js
-├── package.json
-├── README.md
-
 
 ## Requirements
 
